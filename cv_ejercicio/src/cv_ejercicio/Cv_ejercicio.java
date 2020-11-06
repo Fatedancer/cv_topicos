@@ -19,6 +19,7 @@ public class Cv_ejercicio {
         
         System.out.println("Version 0.0");
         System.out.println("Version 1.0");
+        System.out.println("Version 2.0");
         
     }
     
